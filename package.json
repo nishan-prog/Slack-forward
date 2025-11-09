@@ -6,8 +6,9 @@
   "scripts": {
     "start": "node index.js"
   },
-  "dependencies": {
-    "@slack/bolt": "^4.20.0",
-    "dotenv": "^16.0.0"
-  }
+ "dependencies": {
+  "@slack/bolt": "^4.4.0",
+  "dotenv": "^16.0.0",
+  "fs-extra": "^11.1.1"
+}
 }
