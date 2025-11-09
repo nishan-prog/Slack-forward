@@ -1,0 +1,13 @@
+{
+  "name": "slack-dm-forwarder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@slack/bolt": "^4.20.0",
+    "dotenv": "^16.0.0"
+  }
+}
